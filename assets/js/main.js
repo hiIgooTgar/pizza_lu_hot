@@ -33,7 +33,7 @@ const sr = ScrollReveal({
 });
 
 sr.reveal(" .hero-content", {delay: 400, origin: "left"});
-sr.reveal(" .heading", {delay: 100, origin: "left"});
-sr.reveal(" .about-row", {delay: 50, origin: "top"});
-sr.reveal(" .menu-row", {delay: 50, origin: "top"});
-sr.reveal(" .contact-row", {delay: 50, origin: "top"});
+//sr.reveal(" .heading", {delay: 100, origin: "left"});
+//sr.reveal(" .about-row", {delay: 50, origin: "top"});
+//sr.reveal(" .menu-row", {delay: 50, origin: "top"});
+//sr.reveal(" .contact-row", {delay: 50, origin: "top"});
